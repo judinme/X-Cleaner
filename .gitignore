@@ -5,7 +5,8 @@ __pycache__/
 
 # PyInstaller / Build outputs
 build/
-dist/
+dist/*
+!dist/X-Cleaner.exe
 *.spec.bak
 AntigravityDeepClean.spec
 
