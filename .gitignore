@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller / Build outputs
+build/
+dist/
+*.spec.bak
+AntigravityDeepClean.spec
+
+# Scratch / Cloned skills
+scratch/
+
+# Environments & IDE
+.env
+.venv
+env/
+venv/
+.idea/
+.vscode/
