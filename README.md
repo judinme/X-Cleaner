@@ -7,10 +7,10 @@
 [![Platform: Windows 10/11](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-000000.svg?style=flat-square&logo=windows)](https://microsoft.com/windows)
 [![Architecture: x64](https://img.shields.io/badge/Architecture-x64-000000.svg?style=flat-square)](https://github.com)
 [![Design: Minimalist Monochrome](https://img.shields.io/badge/Design-Minimalist%20Monochrome%20%7C%20Swiss-000000.svg?style=flat-square)](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
-[![Packaging: Standalone Portable EXE](https://img.shields.io/badge/Binary-Portable%20Single--File%20EXE-000000.svg?style=flat-square)](dist/X-Cleaner.exe)
+[![Packaging: Standalone Portable EXE](https://img.shields.io/badge/Binary-Portable%20Single--File%20EXE-000000.svg?style=flat-square)](https://github.com/judinme/X-Cleaner/releases/latest)
 [![Safety: Zero False Positives](https://img.shields.io/badge/Safety-Recycle%20Bin%20%2B%20Kernel%20Blacklist-000000.svg?style=flat-square)](https://github.com)
 
-> ⚡ **[Download X-Cleaner.exe (Standalone Windows 64-bit)](dist/X-Cleaner.exe?raw=true)** — *Portable single-file executable (≈ 13.1 MB). Zero dependencies, no Python runtime or installer needed.*
+> ⚡ **[Download X-Cleaner.exe v1.0.0 (Windows x64)](https://github.com/judinme/X-Cleaner/releases/download/v1.0.0/X-Cleaner.exe)** — *Portable single-file executable (≈ 13.1 MB). Zero dependencies, no Python runtime or installer needed. Also tracked directly in the repo at [`dist/X-Cleaner.exe`](dist/X-Cleaner.exe).*
 
 ---
 
